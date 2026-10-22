@@ -1,1 +1,26 @@
+CONTRATO DE LICENCIA DE USUARIO FINAL (EULA) Y TÉRMINOS DE USO DE NEXO OS
 
+Copyright (c) 2026 The Nexo Team S.A. de C.V. Todos los derechos reservados.
+
+1. PROPIEDAD INTELECTUAL
+El sistema operativo Nexo OS, incluyendo sin limitación su código fuente, arquitectura, 
+diseños gráficos, logotipos, elementos visuales, scripts de compilación y documentación 
+asociada, son propiedad exclusiva de The Nexo Team S.A. de C.V. y están protegidos por 
+las leyes internacionales de propiedad intelectual y derechos de autor.
+
+2. CONCESIÓN DE LICENCIA
+Se concede al usuario únicamente el derecho no exclusivo, intransferible y limitado de 
+instalar y ejecutar el Software para su uso personal o profesional como sistema operativo.
+
+3. PROHIBICIÓN STRICTA DE MODIFICACIÓN Y REVENTA
+Queda estrictamente prohibido a cualquier persona física o moral, sin la autorización previa 
+y por escrito de The Nexo Team S.A. de C.V.:
+   a) Modificar, alterar, descompilar, realizar ingeniería inversa o crear obras derivadas.
+   b) Vender, revender, alquilar, sublicenciar, redistribuir, comercializar o lucrar con el Software.
+   c) Eliminar o alterar cualquier aviso de derechos de autor (Copyright) o marca comercial.
+   d) Reempaquetar el Software en nuevas imágenes ISO para su difusión pública o comercial.
+
+4. ACCIONES LEGALES
+El incumplimiento de cualquiera de estos términos constituirá una infracción directa 
+a los derechos de autor de The Nexo Team S.A. de C.V., reservándose el derecho de iniciar 
+las acciones legales, civiles y penales correspondientes contra cualquier tercero infractor.
